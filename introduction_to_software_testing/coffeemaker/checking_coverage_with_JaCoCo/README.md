@@ -1,4 +1,4 @@
-# There is a bug into Coursera assignment. Only a test of "Golden" version fits to this assignment. That's why there is a test of "Golden" version.
+# There is a bug into Coursera assignment. Only the test of "Golden" version fits to this assignment. That's why there is a test of "Golden" version.
 
 # Task
 
