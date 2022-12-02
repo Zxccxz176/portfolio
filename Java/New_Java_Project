@@ -1,7 +1,0 @@
-package com.company;
-
-public class main {
-    publick static void main(String[] args) {
-        System.out.println "Hello Motherfuckers!"
-    }
-}
