@@ -1,19 +1,19 @@
-#DoggieMain
+# DoggieMain
 
 The main program.
 
-#BigDogsClass
+# BigDogsClass
 
 Constractors and methods for big dog classes.
 
-#BDLonghairedClass
+# BDLonghairedClass
 
 Addition for big dog classes.
 
-#LilDogsClass
+# LilDogsClass
 
 Constractors and methods for small dog classes.
 
-#LDLonghairedClass
+# LDLonghairedClass
 
 Addition for little dog classes.
